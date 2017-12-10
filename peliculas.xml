@@ -1,4 +1,4 @@
-<title>*******************AQUI PONEN EL TITULO********************</title>
+<title>*******************PELICULAS********************</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
