@@ -27,7 +27,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>https://pastebin.com/raw/dYD550E5</page>
+<page>https://raw.githubusercontent.com/jarl1970/cinejarl/master/series.xml</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -70,8 +70,8 @@
 </item>
 
 <item>
-<title>[COLOR white][B]CINE DE AVENTURAS[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
+<title>[COLOR white][B]PELICULAS[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/jarl1970/cinejarl/master/peliculas.xml</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
