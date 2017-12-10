@@ -76,7 +76,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>[makelist2.param4]/[makelist.param2]</page>
-<referer>[makelist2.param4]/jarl1970/fileuploader-67183/list,4,15</referer>
+<referer>[makelist2.param4]/jarl1970/fileuploader-96576/list,4,15</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>

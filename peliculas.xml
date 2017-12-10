@@ -9,7 +9,7 @@
 		<fanart></fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>*****************************AQUI PONEN LA URL**************************</page>
+<page>http://diskokosmiko.mx/jarl1970/cine-en-casa-88824</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -27,7 +27,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/peliculas-de-aventuras-el-rockero-30698/list,1,3</referer>
+<referer>http://diskokosmiko.mx/jarl1970/cine-en-casa-88824</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
