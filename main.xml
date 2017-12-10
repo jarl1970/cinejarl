@@ -46,7 +46,7 @@
 <fanart>[makelist2.param3]</fanart>
 ]]></listrepeat>
 <expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
-<page>https://raw.githubusercontent.com/jarl1970/cinejarl/master/series.xml</page>
+<page>https://pastebin.com/raw/dYD550E5</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
