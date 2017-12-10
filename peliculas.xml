@@ -1,3 +1,7 @@
+<title>*******************AQUI PONEN EL TITULO********************</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR white]  [makelist.param3][/COLOR] </title>
         <link>$doregex[getUrl]</link>
