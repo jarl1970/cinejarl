@@ -102,7 +102,7 @@
 </item>
 <item>
 <item>
-<title>[COLOR white][B]________________________________________________[/B][/COLOR]</title>
+<title>[COLOR white][B][/B][/COLOR]</title>
 <link>http://diskokosmiko.mx</link>
 <thumbnail></thumbnail>
 </item>
@@ -147,13 +147,6 @@
 <title>[COLOR white][B]________________________________________________[/B][/COLOR]</title>
 <link>http://diskokosmiko.mx</link>
 <thumbnail></thumbnail>
-</item>
-<item>
-<title>peliculas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/jarl1970/cinejose/master/peliculas.xml</externallink>
 </item>
 <item>
 <title>[COLOR white]CINE DE COMEDIA[/COLOR]</title>
