@@ -64,12 +64,6 @@
 <thumbnail>https://i.imgur.com/5TSD0k7.png</thumbnail>
 </item>
 <item>
-<title>[COLOR white][B]________________________________________________[/B][/COLOR]</title>
-<link>http://diskokosmiko.mx</link>
-<thumbnail>https://i.imgur.com/5TSD0k7.png</thumbnail>
-</item>
- 
-<item>
 <title>[COLOR white][B]PELICULAS[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -103,8 +97,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/2pL1glI.png</thumbnail>
+<fanart>https://i.imgur.com/OIFHTUW.jpg</fanart>
 </item>
 <item>
 <item>
