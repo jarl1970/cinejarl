@@ -1,5 +1,5 @@
 Name:"JUEGO DE TRONOS" url:"http://diskokosmiko.mx/jarl1970/serie-juego-de-tronos-1080p-96576/list,1,2" img:""; server:"http://diskokosmiko.mx"Name:"SERIES" url:"http://diskokosmiko.mx/SeriesHD/mr-robot-t1-dual-34884" img:""; server:"http://diskokosmiko.mx"
-Name:"SERIES" url:"http://diskokosmiko.mx/SeriesHD/mr-robot-t2-38699" img:""; server:"http://diskokosmiko.mx" 
+Name:"JUEGO" url:"http://diskokosmiko.mx/SeriesHD/mr-robot-t2-38699" img:""; server:"http://diskokosmiko.mx" 
 Name:"SERIES" url:"http://diskokosmiko.mx/SeriesHD/marvel-agentes-of-shield-t1-46487" img:""; server:"http://diskokosmiko.mx"
 Name:"SERIES" url:"http://diskokosmiko.mx/SeriesHD/marvel-agentes-of-shield-t2-46488" img:""; server:"http://diskokosmiko.mx"
 Name:"SERIES" url:"http://diskokosmiko.mx/SeriesHD/marvel-agentes-of-shield-t3-46489" img:""; server:"http://diskokosmiko.mx"
