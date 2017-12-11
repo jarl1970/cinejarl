@@ -149,6 +149,13 @@
 <thumbnail></thumbnail>
 </item>
 <item>
+<title>peliculas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/jarl1970/cinejose/master/peliculas.xml</externallink>
+</item>
+<item>
 <title>[COLOR white]CINE DE COMEDIA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
