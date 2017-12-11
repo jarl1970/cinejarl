@@ -118,7 +118,7 @@
         <fanart></fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>https://raw.githubusercontent.com/jarl1970/cinejarl/master/peliculas%20diskokosmiko.xml</page>
+<page>https://pastebin.com/raw/iFK1hUEP</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
