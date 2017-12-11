@@ -136,7 +136,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>https://raw.githubusercontent.com/jarl1970/cinejarl/master/peliculas%20diskokosmiko.xml</referer>
+<referer>http://diskokosmiko.mx/jarl1970/cine-en-casa-88824</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
