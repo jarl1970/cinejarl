@@ -118,7 +118,7 @@
         <fanart></fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/peliculas-ficcion-castellano-el-rockero-30666/list,1,3</page>
+<page>https://raw.githubusercontent.com/jarl1970/cinejarl/master/peliculas%20diskokosmiko.xml</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -136,7 +136,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/peliculas-ficcion-castellano-el-rockero-30666/list,1,3</referer>
+<referer>https://raw.githubusercontent.com/jarl1970/cinejarl/master/peliculas%20diskokosmiko.xml</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
